@@ -42,7 +42,8 @@ ROSのturtlesimにより亀を描画し、回転させ続けるものを作成�
 
 
 # LICENSE
-This repository is licensed under the BSD 3-Clause license.
+
+BSD 3-Clause "New"or"Revised" License
 
 # References
 https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/
