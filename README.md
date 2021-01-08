@@ -40,6 +40,8 @@ ROSのturtlesimにより亀を描画し、回転させ続けるものを作成�
     
 # 映像
 
+https://youtu.be/NCesO_rM79s
+
 
 # LICENSE
 
