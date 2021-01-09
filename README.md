@@ -53,6 +53,9 @@ https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/
 参考にしたロボットシステム学の講義資料です。
 
 https://symfoware.blog.fc2.com/blog-entry-2283.html
+
+ソースコードはこれを参考にし、少し改変を加えたものです。
+
 http://wiki.ros.org/turtlesim/Tutorials/Moving%20in%20a%20Straight%20Line#CA-e22c413483c3a71f8104cdebb87bfe28a08bcf54_5
 
 ROSでturtlesimを使用する際に参考にしたページです。
