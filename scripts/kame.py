@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+"""
+BSD 3-Clause License
+
+"""
+
 import rospy
 from geometry_msgs.msg import Twist
 
